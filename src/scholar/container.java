@@ -9,6 +9,6 @@ package scholar;
  *
  * @author estudiante
  */
-class string {
+class container {
     
 }
